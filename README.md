@@ -1,6 +1,6 @@
 <div align="center"><h1>SAI AKHIL PODDUTURI</h1></div>
 
-<div align="center">| www.linkedin.com/sai-akhil-podduturi-a95b771a9 | saiakhilpodduturi@gmail.com | www.github.com/saiakhil2103 |</div>
+<div align="center">| www.linkedin.com/in/sai-akhil-podduturi-a95b771a9 | saiakhilpodduturi@gmail.com | www.github.com/saiakhil2103 |</div>
 
 ## EDUCATION 
 **1. Bachelor of Technology (Computer Science) | Chaitanya Bharathi Institute of Technology, Telangana | GPA: 8.89/10 | Aug 19 - May 23**
